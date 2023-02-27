@@ -1,2 +1,3 @@
 # MiFirstApp
-Esta es mi primer app hecha en android studio
+## Primer app hecha en android studio
+- Java
